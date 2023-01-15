@@ -1,0 +1,24 @@
+{
+  "name": "cool-dall-e-images",
+  "version": "1.0.0",
+  "description": "All images I like will be saved in this repository",
+  "main": "index.js",
+  "scripts": {
+    "compress": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWilley/Cool-Dall-E-Images.git"
+  },
+  "author": "William Larsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWilley/Cool-Dall-E-Images/issues"
+  },
+  "homepage": "https://github.com/TheWilley/Cool-Dall-E-Images#readme",
+  "dependencies": {
+    "compress-images": "^2.0.5",
+    "gifsicle": "^5.2.1",
+    "pngquant-bin": "^6.0.1"
+  }
+}
