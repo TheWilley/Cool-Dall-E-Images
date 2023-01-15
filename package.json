@@ -2,7 +2,7 @@
   "name": "cool-dall-e-images",
   "version": "1.0.0",
   "description": "All images I like will be saved in this repository",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "compress": "node src/index.js"
   },
